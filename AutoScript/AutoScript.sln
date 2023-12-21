@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoScript", "AutoScript.csproj", "{DC55B238-0382-4776-81F6-E5F9301E0B73}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "AutoScript.Installer", "AutoScript.Installer\AutoScript.Installer.vdproj", "{86503E1C-B692-4E70-AC03-D3F475871CFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC55B238-0382-4776-81F6-E5F9301E0B73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC55B238-0382-4776-81F6-E5F9301E0B73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC55B238-0382-4776-81F6-E5F9301E0B73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC55B238-0382-4776-81F6-E5F9301E0B73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86503E1C-B692-4E70-AC03-D3F475871CFA}.Debug|Any CPU.ActiveCfg = Debug
+		{86503E1C-B692-4E70-AC03-D3F475871CFA}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {328BA6C4-18F4-4EC4-9A29-AFEF58C98061}
+	EndGlobalSection
+EndGlobal

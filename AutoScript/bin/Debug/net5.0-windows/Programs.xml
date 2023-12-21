@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<AutoScript>
+	<OnStart>
+		<Program name="WINWORD" fileName="C:\Users\hdsantana\Desktop\Historia 58534 - Prueba unitaria.docx" handleExit="true" watiFor="notepad++" useCmd="true"/>
+	</OnStart>
+	<OnStop>
+		<Program name="WINWORD" fileName="C:\Program Files\Microsoft Office\root\Office16\WINWORD.exe"/>
+	</OnStop>
+</AutoScript>
